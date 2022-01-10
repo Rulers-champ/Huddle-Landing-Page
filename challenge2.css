@@ -1,0 +1,81 @@
+body{
+	margin:0px;
+}
+h1{
+	font-size: 2.8rem;
+	color:#404040;
+}
+h3{
+	padding:7% 0%; 
+	font-size: 1.6rem;
+	color:#808080;
+}
+
+
+h2{
+	font-size:2.1rem;
+
+}
+h4{
+  margin-top:8%;
+  font-size: 1.2rem;
+  color:#606060;
+}
+p{
+	padding:6% 0%;
+	font-size:0.8rem;
+
+}
+h6{
+	font-size:0.8rem; 
+}
+
+header{
+	background-image: url("../challenge2img/bg-hero-desktop.svg")
+}
+.header-section{
+	padding:4%;
+}
+.header-text{
+	padding:8% 6%;
+}
+.btn{
+	margin-left: auto;
+}
+
+.header-main{
+	padding:5% 2%;
+}
+section{
+	padding:0% 15% 7% 15%;
+}
+.block{
+	border:0.5px solid#E0E0E0;
+	border-radius: 10px;
+	margin:8% 0%;
+	padding:2%;
+	background-image:  url("../challenge2img/bg-hero-desktop.svg")
+}
+.block-text{
+	padding:8% 5%;
+}
+footer{
+	background-color: #2F4F4F;
+	margin:0px;
+	padding:5% 8% 2% 8%;
+	color:#fff;
+}
+.sm-block{
+	padding:4% 6%;
+}
+.cpy-text{
+    padding-left:60%;  
+}
+.last-section
+{
+	text-align: center;
+	padding:0% 15% 15% 15%;
+}
+.last-button{
+	margin-top: 5%;
+}
